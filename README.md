@@ -21,8 +21,8 @@ The Power BI report includes the following analyses:
 
 ### Main Dashboard
 
-![Main Analysis](screenshots/dashboard_filter_on.png)
 ![Main Analysis](screenshots/dashboard_filter_off.png)
+![Main Analysis](screenshots/dashboard_filter_on.png)
 
 ### Sales by Territory
 
@@ -43,7 +43,7 @@ To set up the environment and load the Power BI report, follow these steps:
 1. **Clone the Repository**:
 
    ```sh
-      git clone https://github.com/yourusername/adventureworks-powerbi.git
+      git clone https://github.com/hugolicea/powerbi-mavenanalytics.git
       cd adventureworks-powerbi
    ```
 
@@ -54,8 +54,10 @@ To set up the environment and load the Power BI report, follow these steps:
 
 Once the Power BI report is loaded, you can interact with the various visualizations to gain insights into the AdventureWorks data. Use the filters and slicers to customize the views and drill down into specific details.
 
-Contributing
+### Contributing
+
 We welcome contributions to improve the Power BI report and analyses.
 
-License
+### License
+
 This repository is licensed under the MIT License. See the LICENSE file for more details.
